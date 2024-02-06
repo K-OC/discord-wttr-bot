@@ -1,4 +1,4 @@
-## Discord Wttr bot
+## discord wttr bot
 Chat generated discord bot powered by the wttr api. It ain't perfect, but it works. 
 
 
